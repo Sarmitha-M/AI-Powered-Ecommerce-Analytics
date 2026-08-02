@@ -178,7 +178,7 @@ Amazon – Use AI and analytics for demand forecasting, product recommendations,
 Myntra – Evaluate customer purchasing behavior and campaign effectiveness.
 Meesho – Monitor seller performance, customer engagement, and order trends using analytics.
 
-Note: These companies are referenced only to illustrate real-world applications of e-commerce analytics. The analysis is based on a public dataset and does not represent actual company data.
+**Note:** These companies are referenced only to illustrate real-world applications of e-commerce analytics. The analysis is based on a public dataset and does not represent actual company data.
 
 # Acknowledgements
 
